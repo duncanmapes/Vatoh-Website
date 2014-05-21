@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vatoh Communications 3</title>
+    <description>Vatoh communications is a VOIP and communications systems provider dedicated to superior customer service and great products.</description>
+    <link>http://www.vatoh.com/</link>
+    <atom:link href="http://www.vatoh.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Vatoh Communications is open for business in Charlotte, NC</title>
+        <description>&lt;p&gt;Charlotte, NC — the latest and greatest communications company is hitting your streets.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 May 2014 06:40:42 -0400</pubDate>
+        <link>http://www.vatoh.com/vatoh/press/2014/05/21/welcome-to-vatoh/</link>
+        <guid isPermaLink="true">http://www.vatoh.com/vatoh/press/2014/05/21/welcome-to-vatoh/</guid>
+      </item>
+    
+  </channel>
+</rss>

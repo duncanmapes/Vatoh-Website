@@ -1,0 +1,12 @@
+# Site settings
+title: Vatoh Communications 3
+email: info@vatoh.com
+description: "Vatoh communications is a VOIP and communications systems provider dedicated to superior customer service and great products."
+baseurl: ""
+url: "http://www.vatoh.com"
+twitter: vatoh
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty

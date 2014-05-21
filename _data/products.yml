@@ -1,0 +1,14 @@
+- name: Tom Preston-Werner
+  desc: mojombo
+
+- name: Parker Moore
+  desc: parkr
+
+- name: Liu Fengyun
+  desc: liufengyun
+
+- name: Web Design
+  desc: This is a longer desc of what it means to build some web stuff.
+
+- name: Integrated helpdesk solution
+  desc: "Let us design, install, and maintain a integrated (web,phone,email) helpdesk system for your business."
