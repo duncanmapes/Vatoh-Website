@@ -1,14 +1,8 @@
-- name: Tom Preston-Werner
-  desc: mojombo
+- name: Small Business Phone System
+  desc: VOIP solutions tailored to your businesses needs.
 
-- name: Parker Moore
-  desc: parkr
-
-- name: Liu Fengyun
-  desc: liufengyun
-
-- name: Web Design
-  desc: This is a longer desc of what it means to build some web stuff.
+- name: Email and Exchange Hosting
+  desc: "Do you need reliable, secure email but don't want to hire an IT staff to run servers?  Let us set you up with our hosted IMAP and Exchange accounts."
 
 - name: Integrated helpdesk solution
   desc: "Let us design, install, and maintain a integrated (web,phone,email) helpdesk system for your business."
